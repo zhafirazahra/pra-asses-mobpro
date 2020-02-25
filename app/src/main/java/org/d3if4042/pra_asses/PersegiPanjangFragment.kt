@@ -37,6 +37,7 @@ class PersegiPanjangFragment : Fragment() {
             var kllp = 2*(binding.etPanjangPp.text.toString().toDouble() + binding.etLebarPp.text.toString().toDouble())
 
 //            binding.tvLuasPp.text = getString(R.string.)
+            //
         }
         // Inflate the layout for this fragment
         return binding.root
