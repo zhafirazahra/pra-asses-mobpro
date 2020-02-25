@@ -40,7 +40,7 @@ class PersegiPanjangFragment : Fragment() {
             //
         }
         // Inflate the layout for this fragment
-        return binding.root
+        return binding.root //edit
     }
 
 
